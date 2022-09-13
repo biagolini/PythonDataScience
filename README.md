@@ -1,4 +1,4 @@
-# <u>TUTORIAIS PYTHON</u>
+# <u>PYTHON</u>
 
 # Repositório: tutoriaisPython
 
